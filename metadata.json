@@ -1,0 +1,6 @@
+{
+  "name": "Exam Seating Arrangement System",
+  "description": "Smart exam seating arrangement and campus navigation system designed to prevent cheating and optimize hall usage using simple, clear data structures and algorithms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
